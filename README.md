@@ -1,3 +1,4 @@
 # ci-tests
 
-* Creating CI tag
+* Creating CI tag #1
+* Creating CI tag #2
