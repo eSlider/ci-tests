@@ -5,3 +5,4 @@
 * Creating CI tag #3
 * Creating CI tag #4
 * Creating CI tag #5
+* Creating CI tag #6
